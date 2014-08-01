@@ -1,0 +1,7 @@
+name: GakubuchiLock
+version: 1.0.0
+main: net.jp.minecraft.plugin.main
+permissions:
+    syokken.*:
+        description: You do not have a permissions!
+        default: op
