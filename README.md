@@ -5,16 +5,16 @@ v1.0.0
 
 
 
-＝作者＝
+###＝作者＝
 
 syokkendesuyo
 
 
-＝概要＝
+###＝概要＝
 
 額縁・絵画をデフォルトで設置、破壊を無効化するプラグイン。
 
-＝パーミッションノード＝
+###＝パーミッションノード＝
 
 *gakubuchi.entity.place Entityの設置を許可するかどうか
 
@@ -28,11 +28,11 @@ syokkendesuyo
 
 
 
-＝ライセンス＝
+###＝ライセンス＝
 
 GPLv3を適用します。
 
 
-＝連絡先＝
+###＝連絡先＝
 
 Twitter:@syokkendesuyo
